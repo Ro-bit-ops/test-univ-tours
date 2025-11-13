@@ -8,3 +8,8 @@ Ce que le projet va permettre :
 * les stocker en BDD
 * les afficher 
 * utiliser Node-RED
+
+
+
+![Texte alternatif](IMG_6331.jpg)
+
